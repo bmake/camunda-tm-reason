@@ -1,10 +1,10 @@
-package org.camunda.bpm.getstarted.loanapproval;
+package org.camunda.bpm.getstarted.reason;
 
 import org.camunda.bpm.application.ProcessApplication;
 import org.camunda.bpm.application.impl.ServletProcessApplication;
 
 @ProcessApplication("Loan Approval App")
 
-public class LoanApprovalApplication extends ServletProcessApplication {
+public class ReasonApplication extends ServletProcessApplication {
   // empty implementation
 }
